@@ -21,7 +21,7 @@ Eventora is a full-stack MERN application that allows users to seamlessly browse
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
